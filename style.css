@@ -1,0 +1,45 @@
+*{
+    color: white;
+}
+
+body{
+    background-image: linear-gradient( to right, rgb(53, 49, 49), #cfabe0);
+}
+
+img{
+    border-radius: 50px;
+    margin-top: 60px;
+}
+
+
+button{
+    border-radius: 15px;
+}
+
+.link-social{
+    display: block;
+    text-align: center;
+}
+
+input{
+    border-radius: 10px;
+    font-weight: bold;
+    border: 3px solid #C8ACD6;
+}
+
+footer button{
+    font-weight: bold;
+    border: 3px solid #C8ACD6;
+    color: grey;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: medium;
+}
+
+#©-r{
+    text-align: center;
+    margin-top: 40px;
+}
